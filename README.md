@@ -9,6 +9,7 @@
 | 文件 | 內容 |
 |---|---|
 | [HOMEWORK.md](HOMEWORK.md) | 作業說明:分組規則、選題、指令格式、繳交與報告規範、題目語意規格 |
+| [report/](report/) | 各 Checkpoint 書面報告 |
 | `mac_demo/` | 教師示範題 `MAC` 的編碼、C 參考實作、5 級 pipeline 模型與時序圖 |
 
 學生相關的規定以 [HOMEWORK.md](HOMEWORK.md) 為準。
